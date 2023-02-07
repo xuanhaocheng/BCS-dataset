@@ -17,10 +17,9 @@ from time import sleep
 # 定义一个taobao类
 class taobao_infos:
 
-    # 对象初始化
     def __init__(self):
         options = webdriver.ChromeOptions()
-        #options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2})  # 不加载图片,加快访问速度
+        #options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2}) 
         options.add_experimental_option('excludeSwitches',
                                         ['enable-automation'],)  # This step is very important. It is set to developer mode to prevent Selenium from being recognized by major websites
         #options.add_argument("--headless")  #This step adds headless mode. After the program debugging is qualified, you can add this step. So the computer can do other things when crawling data.
@@ -103,7 +102,6 @@ class taobao_infos:
 
 
 if __name__ == "__main__":
-    # 使用之前请先查看当前目录下的使用说明文件README.MD
 
     list_url = ['建筑工地板房','建筑工地彩钢房'] #Specify the keywords to be downloaded here, the previous url_ Data needs to fill in a complete URL
     for i in list_url:
