@@ -28,7 +28,6 @@ import re
 # Define a taobao class
 class taobao_infos:
 
-    # 对象初始化
     def __init__(self):
         options = webdriver.ChromeOptions()
         #options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2}) 
@@ -63,7 +62,6 @@ class taobao_infos:
 
         # The essence is to simulate the manual downward browsing of goods, that is, to simulate the sliding operation to prevent being recognized as a robot
         # self.swipe_down(30)
-        # 获取本页面源代码
         html = self.browser.page_source
 
         # Pq module parses web page source code
