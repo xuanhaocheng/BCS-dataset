@@ -1,10 +1,5 @@
 BCS-dataset
 =====
-<font size="10">This text is size 5.</font>
-<p style="font-size:20px;line-height:1.5">
-This text is size 20 and has a line height of 1.5.
-</p>
-<p style="color:blue;">这是一段示例文本，字体颜色是蓝色。</p>
 
 At present, the BCS dataset has more than 60 categories and nearly 240000 images. This dataset will be updated at regular intervals. If users have any suggestions about this dataset, please contact me via email. My email is a1163478254@163.com 。 For example, you want me to help you collect pictures of architectural styles in different countries, or pictures of transport vehicles on construction sites in different countries, or you want to tell me some subclasses of civil engineering that are not available in this dataset, or you want to share photos of civil engineering that are difficult to collect online with our dataset.
 
