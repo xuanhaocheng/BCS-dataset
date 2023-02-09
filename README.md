@@ -16,6 +16,7 @@ https://drive.google.com/file/d/1t0jCKJa0fOUfXNxz5TIExmqL1Uo1FBOp/view?usp=shari
 
 *Crawler*
 =====
-![web crawler](https://user-images.githubusercontent.com/124375093/217704859-fc192c81-6b7f-49db-ad90-a9ed965a416c.jpg)
+
+![web crawler](https://user-images.githubusercontent.com/124375093/217705532-c0c19fe5-d9d8-4ed8-ba7b-0a9fbbddd46b.jpg)
 
 Users can use crawler to crawl the information they want from the Internet according to their own needs, so as to build their own datasets.
