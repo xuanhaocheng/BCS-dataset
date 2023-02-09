@@ -1,7 +1,7 @@
 BCS-dataset
 =====
 
-At present, the BCS dataset has more than 60 categories and nearly 240000 images. This dataset will be updated at regular intervals. If users have any suggestions about this dataset, please contact me via email. My email is a1163478254@163.com 。 For example, you want me to help you collect pictures of architectural styles in different countries, or pictures of transport vehicles on construction sites in different countries, or you want to tell me some subclasses of civil engineering that are not available in this dataset, or you want to share photos of civil engineering that are difficult to collect online with our dataset.
+**At present, the BCS dataset has more than 60 categories and nearly 240000 images. This dataset will be updated at regular intervals. If users have any suggestions about this dataset, please contact me via email. My email is a1163478254@163.com 。 For example, you want me to help you collect pictures of architectural styles in different countries, or pictures of transport vehicles on construction sites in different countries, or you want to tell me some subclasses of civil engineering that are not available in this dataset, or you want to share photos of civil engineering that are difficult to collect online with our dataset.**
 
 ![BCS dataset](https://user-images.githubusercontent.com/124375093/217712380-64cfe045-c87e-456c-8007-2814cb876680.jpg)
 
