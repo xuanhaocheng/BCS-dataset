@@ -7,16 +7,8 @@ BCS-dataset
 
 ![BCS dataset-construction site](https://user-images.githubusercontent.com/124375093/217716676-212a07b0-3a5d-4f28-b2d8-f355c816ccac.jpg)
 
-The purpose of this dataset is to collect a large amount of civil engineering data through open source, crawler and on-site collection, and hope to become a super large public dataset of civil engineering in the future. Scholars can carry out classification model research on this dataset, etc., and can also apply gan to this dataset. We hope that this dataset can also be used by future unmanned intelligent construction sites.
+The purpose of this dataset is to collect a large amount of civil engineering data through open source, crawler and on-site collection, and hope to become a super large public dataset of civil engineering in the future. Scholars can carry out classification model research on this dataset, etc..
 
-
-
-+The link shared by Baidu Cloud online disk is as follows：
-https://pan.baidu.com/s/1FNUCK4IbwfSYt61N_6kIXw?pwd=qbvu
-提取码：qbvu
-
-+The link shared by Google drive is as follows：
-https://drive.google.com/file/d/1t0jCKJa0fOUfXNxz5TIExmqL1Uo1FBOp/view?usp=sharing
 
 *Crawler*
 =====
