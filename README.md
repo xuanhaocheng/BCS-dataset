@@ -11,8 +11,7 @@ The purpose of this dataset is to collect a large amount of civil engineering da
 
 *Download*
 =====
-For access to the full BCS data set and other commonly used subsets, please contact me （a1163478254@163.com）. In doing so, you will need to agree to our terms of access.
-Terms of access:
+For access to the full BCS data set and other commonly used subsets, please contact me （a1163478254@163.com）. In doing so, you will need to agree to our terms of access. Terms of access:
 The Researcher has requested permission to use the BCS data set at the Harbin Institute of technology. In exchange for such permission, Researcher hereby agrees to the following terms and conditions:
 1.	Researcher shall use the Database only for non-commercial research and educational purposes.
 2.	Harbin Institute of technology makes no representations or warranties regarding the Database, including but not limited to warranties of non-infringement or fitness for a particular purpose.
@@ -23,7 +22,7 @@ The Researcher has requested permission to use the BCS data set at the Harbin In
 
 Only if researchers agree to the above conditions can they contact me (a1163478254@163.com ) to obtain a download link and then download this data set.
 
-If you still believe that our data set violates your image copyright, please contact us, and we will delete the corresponding image as soon as possible. 
+Even though we have stated that this dataset can only be used for scientific research and teaching purposes, if you still believe that our dataset violates your image copyright, please contact us as soon as possible, and we will delete the corresponding image as soon as possible. 
 
 *Crawler*
 =====
