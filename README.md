@@ -7,7 +7,7 @@ BCS-dataset
 
 ![BCS dataset-construction site](https://user-images.githubusercontent.com/124375093/217716676-212a07b0-3a5d-4f28-b2d8-f355c816ccac.jpg)
 
-The purpose of this dataset is to collect a large amount of civil engineering data through open source, crawler and on-site collection, and hope to become a super large public dataset of civil engineering in the future. Scholars can carry out classification model research on this dataset, etc..
+The purpose of this dataset is to collect a large amount of civil engineering data through open source, crawler and on-site collection, and hope to become a super large public dataset of civil engineering in the future. Scholars can carry out classification model research on this dataset, Or you can fine-tune the model and apply it to image segmentation and object detection by pre training in BCS and labeling a small number of images.etc..
 
 *Download*
 =====
